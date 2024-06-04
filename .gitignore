@@ -1,3 +1,5 @@
 ./input.txt
-./practice.py
-test.py
+practice/practice.py
+practice/test.py
+
+practice/
